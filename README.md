@@ -1,25 +1,9 @@
-# Next.js AI Chat
+# Chatsphere
 ---
 
-### Author Links
+### Introduction
 
-👋 Hello, I'm Dave Gray.
-
-📚 [My Courses](https://courses.davegray.codes/)
-
-✅ [Check out my YouTube Channel with hundreds of tutorials](https://www.youtube.com/DaveGrayTeachesCode).
-
-🚩 [Subscribe to my channel](https://bit.ly/3nGHmNn)
-
-💖 [Support My Content](https://patreon.com/davegray)
-
-🚀 Follow Me:
-
-- [Twitter](https://twitter.com/yesdavidgray)
-- [LinkedIn](https://www.linkedin.com/in/davidagray/)
-- [Blog](https://davegray.codes)
-
----
+👋 Hello, I'm Neeraj Butola. I am a fullstack developers who has tried many applications from Native Android appllications to Fullstack Web Applications using MERN OR MEAN Stack.
 
 ### Description
 
@@ -33,15 +17,10 @@
 - npm install
 - npm run dev
 
----
-
-### 🎓 Academic Honesty
-
-**DO NOT COPY FOR AN ASSIGNMENT** - Avoid plagiarism and adhere to the spirit of this [Academic Honesty Policy](https://www.freecodecamp.org/news/academic-honesty-policy/).
 
 ---
 
-### 📚 Tutorial References
+### 📚  References
 
 - 🔗 [Next.js](https://nextjs.org/)
 - 🔗 [Vercel AI SDK](https://sdk.vercel.ai/docs)
