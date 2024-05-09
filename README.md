@@ -7,7 +7,7 @@
 
 ### Description
 
-📺 [YouTube Video](https://youtu.be/xF-BL8XF4mg) for this repository.
+AI Chat application where you can chat with your Pdfs. Built with NEXTjs
 
 ---
 
