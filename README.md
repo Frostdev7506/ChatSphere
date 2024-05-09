@@ -1,4 +1,5 @@
 # Chatsphere
+
 ---
 
 ### Introduction
@@ -7,7 +8,7 @@
 
 ### Description
 
-AI Chat application where you can chat with your Pdfs. Built with NEXTjs
+AI Chat application where you can chat with your PDFs. Application Built with NEXTjs
 
 ---
 
@@ -17,10 +18,9 @@ AI Chat application where you can chat with your Pdfs. Built with NEXTjs
 - npm install
 - npm run dev
 
-
 ---
 
-### 📚  References
+### 📚 References
 
 - 🔗 [Next.js](https://nextjs.org/)
 - 🔗 [Vercel AI SDK](https://sdk.vercel.ai/docs)
